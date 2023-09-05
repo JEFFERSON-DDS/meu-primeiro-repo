@@ -1,2 +1,3 @@
-# meu-primeiro-repo
-meu primeiro repositório 
+o repositoria tem a finaliade de salvar os arquivos em nuvem tem a capacide de automaticamente quando for salvo ele organizar de maneira que fique totalmente entendivel todo o codigo e suas linhas, onde o usuario caso queria ou o projeto seja de cunho de equipe ele possa deixar seus codigos expostos publicamente para qualquer usuario poder vizualizar e ate dar suas sugestões para alteração desse mesmo codigo. 
+dessa forma sempe que você tiver alterações no codigo poderá de maneira mais facil nevegar o tempo e nas linhas de maneira mais entendivel e pratica do que pecisar a chegar a reescrever o codigo.
+
